@@ -10,8 +10,6 @@ public class StoneMasonKarel extends SuperKarel {
 	public void run() {
 		move();
 		turnLeft();
-		move();
-		move();
 	}
 
 
