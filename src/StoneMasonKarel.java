@@ -1,5 +1,5 @@
 /*
- * TODO: comment this program
+ * TODO: problem 2 修复柱子
  */
 
 import stanford.karel.*;

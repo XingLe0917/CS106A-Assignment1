@@ -1,5 +1,5 @@
 /*
- * TODO: comment this program
+ * TODO: problem 3  棋盘
  */
 
 import stanford.karel.*;

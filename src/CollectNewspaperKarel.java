@@ -1,5 +1,5 @@
 /*
- * TODO: comment this program
+ * TODO: problem 1 捡报纸
  */
 
 import stanford.karel.*;
